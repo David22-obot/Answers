@@ -1,6 +1,6 @@
 /*****************************************************************************************************************
-NAME:    My Script Name
-PURPOSE: My script purpose...
+NAME:    EC_IT143_W5.2_MyFC_do..sql
+PURPOSE: Answering Questions From Abigail Somina Alfred
 
 MODIFICATION LOG:
 Ver      Date        Author        Description
@@ -19,7 +19,7 @@ This is where I talk about what this script is, why I built it, and other stuff.
 -- Q1: List all players along with their last name, first name, team id, and position id.
 -- Q2: Retrieve all players whose jersey number (pl_num) is greater than 50.
 -- Q3: Count how many players belong to each team (t_id).
--- Q4: Find all players whose last name is ‘GARCIA’.
+-- Q4: Find all players whose last name is â€˜GARCIAâ€™.
 -- A1: Question goes on the previous line, intoduction to the answer goes on this line...
 
 --A1
