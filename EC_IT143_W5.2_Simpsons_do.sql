@@ -1,6 +1,6 @@
 /*****************************************************************************************************************
-NAME:    My Script Name
-PURPOSE: My script purpose...
+NAME:    EC_IT143_W5.2_Simpsons_do..sql
+PURPOSE: Answering Questions From Abigail Somina Alfred
 
 MODIFICATION LOG:
 Ver      Date        Author        Description
